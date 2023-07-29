@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movies-time-react/static/css/main.3841b1ff.css",
+    "main.js": "/movies-time-react/static/js/main.aa1d4253.js",
+    "static/js/787.128e5538.chunk.js": "/movies-time-react/static/js/787.128e5538.chunk.js",
+    "index.html": "/movies-time-react/index.html",
+    "main.3841b1ff.css.map": "/movies-time-react/static/css/main.3841b1ff.css.map",
+    "main.aa1d4253.js.map": "/movies-time-react/static/js/main.aa1d4253.js.map",
+    "787.128e5538.chunk.js.map": "/movies-time-react/static/js/787.128e5538.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3841b1ff.css",
+    "static/js/main.aa1d4253.js"
+  ]
+}
